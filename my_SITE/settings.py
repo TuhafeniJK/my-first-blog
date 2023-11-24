@@ -1,3 +1,7 @@
+from dotenv import load_dotenv
+
+
+
 """
 Django settings for my_SITE project.
 
